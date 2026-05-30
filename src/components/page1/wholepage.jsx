@@ -12,7 +12,7 @@ function WholePage() {
 
           
             
-           <div className="flex-1 grid grid-cols-1 lg:grid-cols-[500px_1fr] p-4 gap-6 min-h-0">
+         <div className="flex-1 grid grid-cols-1 lg:grid-cols-[420px_1fr] p-4 gap-6 min-h-0">
 
                 <Left />
 

@@ -3,7 +3,7 @@ import screenshot from '../../assets/p1.png'
 function Left() {
   return (
    
-   <div className="bg-[#F7CBCA] w-full lg:w-[500px] p-6 md:p-8 shadow-md h-full flex flex-col gap-6">
+   <div className="bg-[#F7CBCA] w-full p-6 md:p-8 shadow-md h-full flex flex-col gap-6">
 
       <span className="inline-block bg-gray-600 text-white text-xs font-semibold px-3 py-1 rounded-full mb-6">
         Modern web development
