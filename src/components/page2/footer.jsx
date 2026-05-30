@@ -9,10 +9,10 @@ function Footer() {
     </div> 
     <div className="flex gap-3 flex-wrap justify-center"> 
         <span className="inline-block  text-white px-3 py-2 rounded-full mx-2 border-white border text-xs font-semibold tracking-wide ">
-      <a href="https://github.com/YOUR_USERNAME" className="footer-link">GitHub</a>
+     <a href="https://github.com/fatima-muzafar/react-tailwind-showcase" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
        </span>
          <span className="inline-block  text-white px-3 py-2 rounded-full mx-2 border-white border text-xs font-semibold tracking-wide ">
-      <a href="https://www.linkedin.com/in/fatima-muzafar-ali-900a172a0" className="footer-link">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/fatima-muzafar-ali-900a172a0" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
          </span>
     </div>
     <p className="text-[#555a6e] text-xs">Built with React and Tailwind CSS · 2026</p>

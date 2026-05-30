@@ -50,7 +50,7 @@ function Right() {
         </h1>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 w-full items-stretch flex flex-wrap">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full items-stretch flex flex-wrap">
         {userdata.map(function (elem, index) {
           return (
             <Card
